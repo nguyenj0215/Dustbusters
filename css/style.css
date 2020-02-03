@@ -855,7 +855,7 @@ a:focus, a:hover {
 ==================================================================*/
 .call-to-action {
   padding: 100px 0;
-  background: url("../images/slider/parallaxbg.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/contact-background.jpg");
   background-size: cover;
   color: #fff;
 }
@@ -2036,9 +2036,9 @@ a:focus, a:hover {
 }
 
 .footer-bottom h5 {
-  font-size: 0.1px;
+  font-size: 14px;
   line-height: 1;
-  color: #1b1b1b;
+  color: white;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 2px;
